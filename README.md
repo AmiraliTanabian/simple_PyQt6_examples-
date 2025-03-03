@@ -8,5 +8,5 @@ Simple Training for "QListWidget" on PyQt6
     <li>
     QFontComboBox
     </li>
-    <li>QRadioButton</li>
+    <li>Lorem Ipsum Generator</li>
 </ul>
